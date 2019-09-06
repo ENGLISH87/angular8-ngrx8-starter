@@ -1,4 +1,4 @@
-# Angular8Ngrx8Starter
+# Angular 8 NgRx 8 Starter Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
